@@ -2,7 +2,7 @@
 
 ![Alt text](start-me-pentest.png "a title")
 
-So I like to use Start.Me to have a quick dashbaord i can use to jump to my favorite tools and resource.
+So I like to use Start.Me to have a quick dashbaord i can use to jump to my favorite tools and resources. Nothing ground breaking but i like it 
 
 Here i am sharing my pentest board
 
